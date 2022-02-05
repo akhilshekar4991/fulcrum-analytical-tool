@@ -20,7 +20,7 @@
 #define     NUM_OF_INSTR_ADD_OP     1
 #define     NUM_OF_INSTR_MULT_OP    1
 #define     NUM_OF_INSTR_SUB_OP     1
-#define     NUM_OF_INSTR_AVG_OP     2
+#define     NUM_OF_INSTR_AVG_OP     3
 #define     NUM_OF_INSTR_AXPY_OP    1
 
 #endif  /* FULCRUM_ARCH_PARAMETERS_HPP_ */
